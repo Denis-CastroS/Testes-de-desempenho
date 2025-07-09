@@ -59,10 +59,6 @@ spring.h2.console.path=/h2-console
 
 git clone https://github.com/Denis-CastroS/Testes-de-desempenho.git
 
-    Navegue até o diretório do projeto:
-
-cd trabalho-jpa
-
     Compile o projeto com Maven:
 
 mvn clean install
