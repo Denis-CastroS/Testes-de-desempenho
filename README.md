@@ -2,7 +2,7 @@
 
 Este projeto demonstra a implementação de um CRUD para conta bancária usando Spring Boot, com foco em testes de concorrência e controle de acesso simultâneo.
 
-# alunos: Denis Silva, Elton Pantoja
+# Alunos: Denis Silva, Elton Pantoja
 
 # Requisitos
 
